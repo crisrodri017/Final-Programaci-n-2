@@ -1,1 +1,5 @@
-# Final-Programaci-n-2
+# Final-Programacion-2
+
+Cristian Rodriguez  
+Kevin Ospina
+Laura Valenzuela

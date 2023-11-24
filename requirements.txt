@@ -2,6 +2,6 @@ dash==2.6.0
 gunicorn
 dash_bootstrap_components
 plotly
-pymongo==3.1.0
+pymongo==3.10
 dnspython
 requests

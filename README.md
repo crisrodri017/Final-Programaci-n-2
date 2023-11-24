@@ -1,7 +1,7 @@
 # Final-Programacion-2
 
-Cristian Rodriguez  
+Kevin Danilo Ospina Herrera 20231579066
 
-Kevin Ospina 
+Cristian Felipe Rodriguez Galindo 20231579011
 
-Laura Valenzuela
+Laura Camila Valenzuela Bolaños 20231579074
